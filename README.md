@@ -1,4 +1,4 @@
-# BlogZ
+# Blog-It
 A blogging application for sharing information via Blogs.
 
 1. A website that provides the feature of creating, deleting, updating and accessing Blogs.
