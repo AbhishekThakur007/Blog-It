@@ -17,15 +17,15 @@ const UserSchema = new Schema({
     },
     password:{
         type: String , 
-        required: true
+        required: true,
     },
     likes: {
         type: Number, 
-        default: 0
+        default: 0,
     },
     notificationTime: { 
         type: Date, 
-        default: Date.now()
+        default: Date.now(),
     },
 });
 
